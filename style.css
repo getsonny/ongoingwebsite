@@ -1,0 +1,38 @@
+header{
+    display:flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+header nav{
+    margin-right: 20px;
+}
+
+header nav li{
+    display: inline-block;
+    list-style-type: none;
+    margin: 10px 5px;
+}
+
+.content{
+    display: flex;
+}
+.content .sidebar{
+    margin: 70px;
+    justify-content:center;
+}
+.content .sidebar nav li{
+    list-style-type: none;
+    margin: 20px;
+}
+
+.content .snakeStuff{
+    padding: 25px;
+}
+
+footer{
+    text-align: center;
+}
+
+footer a{
+    margin: 20px
+}
