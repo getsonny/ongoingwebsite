@@ -23,6 +23,7 @@ header nav li{
 .content .sidebar nav li{
     list-style-type: none;
     margin: 20px;
+    background-color: lightgray;
 }
 
 .content .snakeStuff{
@@ -31,6 +32,7 @@ header nav li{
 
 footer{
     text-align: center;
+    background-color: blanchedalmond;;
 }
 
 footer a{
